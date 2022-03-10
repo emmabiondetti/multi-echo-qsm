@@ -1,4 +1,3 @@
-This folder contains the files for the numerical phantom simulation.
+The original Zubal Phantom can be downloaded at this link: https://noodle.med.yale.edu/zubal/data.htm
 
-* dat_head_u2med.dat: the original zubal phantom with a 1.5-mm isotropic resolution.
-* zubal_phantom_1iso.nii.gz: the phantom resampled at a 1-mm isotropic resolution and saved as nifti.
+This folder contains the files used to modify the original phantom to generate data for the numerical simulations.
