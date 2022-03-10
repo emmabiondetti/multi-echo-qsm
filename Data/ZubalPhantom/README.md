@@ -1,4 +1,4 @@
-The original phantom data can be freely downloaded at this link: https://noodle.med.yale.edu/zubal/data.htm
+The original phantom data can be downloaded at this link: https://noodle.med.yale.edu/zubal/data.htm
 
 * par_phi0_4th_order_poly.mat contains the parameters for modelling the phase offset as a fourth-order polynomial
 * zubalPhantom_brainMask_1iso.nii.gz is the binary brain mask
