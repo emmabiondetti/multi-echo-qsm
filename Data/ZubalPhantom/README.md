@@ -1,4 +1,4 @@
-This folder contains the files used to modify the original Zubal MRI Head Phantom to generate data for the numerical simulations.
+This folder contains the code used to modify the original Zubal MRI Head Phantom to generate data for the numerical simulations.
 
 The original phantom can be freely downloaded at this link: https://noodle.med.yale.edu/zubal/data.htm
 
