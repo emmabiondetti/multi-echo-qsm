@@ -6,19 +6,19 @@ function [SusceptibilityMap, Alpha, Corr] = directTikhonov_lcurve(fieldMap, mask
 %   convolution
 %
 % INPUTS:
-% fieldMap: field map [ppm]
-% mask: binary tissue mask
-% parameters: Parameters.Alpha - Enter a single value of alpha or a range 
+%   fieldMap: field map [ppm]
+%   mask: binary brain mask
+%   parameters: Parameters.Alpha - Enter a single value of alpha or a range 
 %               of alpha for l-curve optimisation. Default scans alpha from 10E-5 to 1
 %             Parameters.Resolution(double vector) - Image resolution vector [dx dy dz] in mm
 %             Parameters.Orientation(double vector) - 3-element vector of the B0 direction (default: [0 0 1])
 %             Parameters.PSFCorr(string) - PSF corresciton: 'Yes' (default) or 'No'
 %
 % OUTPUT: 
-% SusceptibilityMap(double matrix) - Susceptibility map in ppm
+%   SusceptibilityMap(double matrix) - Susceptibility map in ppm
 %
 % AUTHORS: 
-% Emma Biondetti, Emma Dixon, Anita Karsa, (2017) University College London, UK 
+%   Emma Biondetti, Emma Dixon, Anita Karsa, (2017) University College London, UK 
 
 %% Initialisation of parameters
 %Resolution
