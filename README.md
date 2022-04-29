@@ -1,8 +1,7 @@
 # multi-echo-qsm
 This repository contains the Matlab code used to run the analyses in:
 
-Emma Biondetti, Anita Karsa, Francesco Grussu, Marco Battiston, Marios C. Yiannakas, David L. Thomas, Karin Shmueli, "Multi-echo Quantitative Susceptibility Mapping: How to Combine Echoes for Accuracy and Precision at 3 T"
-bioRxiv 2021.06.14.448385; doi: https://doi.org/10.1101/2021.06.14.448385 
+Emma Biondetti, Anita Karsa, Francesco Grussu, Marco Battiston, Marios C. Yiannakas, David L. Thomas, Karin Shmueli, "Multi-echo Quantitative Susceptibility Mapping: How to Combine Echoes for Accuracy and Precision at 3 T"; bioRxiv 2021.06.14.448385; doi: https://doi.org/10.1101/2021.06.14.448385 
 
 ## Dependencies
 The following toolboxes are needed (or recommended) to run this code:
